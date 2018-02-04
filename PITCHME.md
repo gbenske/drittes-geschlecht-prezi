@@ -12,9 +12,9 @@
 
 ## Das dritte Geschlecht
 
-### Was genau ist das dritte Geschlecht
+### Was genau ist das dritte Geschlecht?
 
-- Wird als Intersexualität betitelt. |
+- Wird als Intersexualität betitelt |
 - Geschlechtsidentität hängt von mehreren Faktoren ab |
   + körperliche Merkmale 
   + soziale Einflüsse
@@ -22,81 +22,84 @@
   + psychische Empfinden
 - Keine genaue Zuordnung |
 - Begründung: "Menschen, die nicht mit einem eindeutigen Geschlecht auf die Welt gekommen sind, sollten nicht gezwungen sein, sich einem der zwei Geschlechter zuordnen zu müssen." |
-- Ende 2018 muss der Gesetzgeber nun eine neue Regelung schaffen, die das dritte Geschlecht mit einer „positiven Bezeichnung des Geschlechts“ wie zum Beispiel „inter“ oder „divers“ aufnimmt |
+- Ende 2018 muss der Gesetzgeber nun eine neue Regelung schaffen |
 
----?code=src/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---
 
-@title[JavaScript Block]
+### Wie kam es zu der Entscheidung?
 
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
-
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+- Auslöser: Klage einer intersexuellen Person  |
+- legte einer Chromosomenanalyse Klage ein |
+- Klage scheiterte vor dem Bundesgerichtshof. |
 
 ---
 
-## Template Help
+### Zahl der Betroffenen
 
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- Nicht genau definierbar |
+- Schätzungen aus dem Jahr 2012 zufolge rund 80.000 intersexuelle Menschen in Deutschland |
 
 ---
 
-### Template Versions
+### Unterschiede zu anderen Sexualitäten
 
-- #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black)
-- #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black?p=codemax)
-- #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/black?p=speaker)
+- Intersexualität nicht gleich Transsexuel |
+- Transsexuelle Menschen unterscheiden sich das körperliche Geschlecht vom psyschischen Geschlecht |
+  + biologisch eindeutig definiert
+- Intersexuelle-Identitäten |
+  + lassen sich biologisch nicht genau definieren
 
 ---
 
-### Questions?
+### Auswirkungen
+
+- Darf man noch "Sehr geehrte Damen und Herren" sagen? |
+- Welche Toiletten dürfen benutzt werden? |
+- Welche Kleiderordnung herrscht für diese Menschen? |
+
+---
+
+### Wie sieht es in anderen Ländern aus?
+
+- Australien seit 2003 den Geschlechtseintrag „X“ |
+- Indien ist seit 2014 das dritte Geschlecht rechtlich anerkannt |
+- Kanada ist seit August dieses Jahres der Eintrag „X“ |
+- Ebenso in Kolumbien, Argentinien, Malta, Bangladesch, Nepal, Pakistan, Neuseeland und Dänemark |
+- Deutschland:
+  + nur für diejenigen, die biologisch nicht einem Geschlecht zuzuordnen sind
+
+---
+
+## Meine Meinung
+
+---
+
+### Quellen
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
+http://www.spiegel.de/gesundheit/schwangerschaft/das-dritte-geschlecht-was-bedeutet-intersexualitaet-a-1177033.html
 
-@fa[github gp-contact](gitpitch)
+<br>
+
+https://www.tagesschau.de/inland/intersexuelle-geschlecht-105.html
+
+<br>
+
+http://www.sueddeutsche.de/leben/bundesverfassungsgericht-zu-intersexualitaet-das-dritte-geschlecht-eine-revolution-1.3740616
+
+<br>
+
+https://www.cicero.de/innenpolitik/drittes-geschlecht-mannlein-weiblein
+
+<br>
+
+http://www.zeit.de/gesellschaft/zeitgeschehen/2017-11/bundesverfassungsgericht-fuer-drittes-geschlecht-im-geburtenregister
+
+<br>
+
+https://www.focus.de/finanzen/experten/drittes-geschlecht-die-folgen-des-urteils-fuer-die-arbeitswelt_id_7862448.html
 
 @fa[medium gp-contact](@gitpitch)
 
