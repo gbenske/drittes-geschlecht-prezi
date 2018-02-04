@@ -2,7 +2,7 @@
 
 ### Das Dritte Geschlecht
 
-#### Eine Präsentation von #######German Benske
+#### Eine Präsentation von German Benske
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Wie kam es zu der Entscheidung?
+## Wie kam es zu der Entscheidung?
 
 - Auslöser: Klage einer intersexuellen Person  |
 - legte einer Chromosomenanalyse Klage ein |
@@ -35,14 +35,14 @@
 
 ---
 
-### Zahl der Betroffenen
+## Zahl der Betroffenen
 
 - Nicht genau definierbar |
 - Schätzungen aus dem Jahr 2012 zufolge rund 80.000 intersexuelle Menschen in Deutschland |
 
 ---
 
-### Unterschiede zu anderen Sexualitäten
+## Unterschiede zu anderen Sexualitäten
 
 - Intersexualität nicht gleich Transsexuel |
 - Transsexuelle Menschen unterscheiden sich das körperliche Geschlecht vom psyschischen Geschlecht |
@@ -52,7 +52,7 @@
 
 ---
 
-### Auswirkungen
+## Auswirkungen
 
 - Darf man noch "Sehr geehrte Damen und Herren" sagen? |
 - Welche Toiletten dürfen benutzt werden? |
@@ -60,7 +60,7 @@
 
 ---
 
-### Wie sieht es in anderen Ländern aus?
+## Wie sieht es in anderen Ländern aus?
 
 - Australien seit 2003 den Geschlechtseintrag „X“ |
 - Indien ist seit 2014 das dritte Geschlecht rechtlich anerkannt |
@@ -75,7 +75,7 @@
 
 ---
 
-### Quellen
+## Quellen
 
 http://www.spiegel.de/gesundheit/schwangerschaft/das-dritte-geschlecht-was-bedeutet-intersexualitaet-a-1177033.html
 https://www.tagesschau.de/inland/intersexuelle-geschlecht-105.html
