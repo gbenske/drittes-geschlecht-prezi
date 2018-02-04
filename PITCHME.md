@@ -1,8 +1,8 @@
-# Weder Männlein noch Weiblein
+## Weder Männlein noch Weiblein
 
-## Das Dritte Geschlecht
+### Das Dritte Geschlecht
 
-### Eine Präsentation von German Benske
+#### Eine Präsentation von German Benske
 
 ---
 
@@ -12,14 +12,17 @@
 
 ## Das dritte Geschlecht
 
-## Was genau ist das dritte Geschlecht
+### Was genau ist das dritte Geschlecht
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Wird als Intersexualität betitelt. |
+- Geschlechtsidentität hängt von mehreren Faktoren ab |
+  + körperliche Merkmale 
+  + soziale Einflüsse
+  + Hormonen und dem Stoffwechsel
+  + psychische Empfinden
+- Keine genaue Zuordnung |
+- Begründung: "Menschen, die nicht mit einem eindeutigen Geschlecht auf die Welt gekommen sind, sollten nicht gezwungen sein, sich einem der zwei Geschlechter zuordnen zu müssen." |
+- Ende 2018 muss der Gesetzgeber nun eine neue Regelung schaffen, die das dritte Geschlecht mit einer „positiven Bezeichnung des Geschlechts“ wie zum Beispiel „inter“ oder „divers“ aufnimmt |
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
