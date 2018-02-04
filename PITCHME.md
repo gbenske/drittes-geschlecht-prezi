@@ -2,7 +2,7 @@
 
 ### Das Dritte Geschlecht
 
-#### Eine Präsentation von German Benske
+#### Eine Präsentation von #######German Benske
 
 ---
 
@@ -85,4 +85,4 @@ http://www.zeit.de/gesellschaft/zeitgeschehen/2017-11/bundesverfassungsgericht-f
 
 ---
 
-# Danke für Eure Aufmerksamkeit
+## Danke für Eure Aufmerksamkeit
