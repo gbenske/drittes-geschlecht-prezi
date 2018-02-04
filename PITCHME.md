@@ -1,20 +1,18 @@
-# Black
+# Weder Männlein noch Weiblein
 
-### A GitPitch Presentation Template
+## Das Dritte Geschlecht
 
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+### Eine Präsentation von German Benske
 
 ---
 
-## Template Features
+## Was denkt Ihr was das dritte Geschlecht ist?
+
+---
+
+## Das dritte Geschlecht
+
+## Was genau ist das dritte Geschlecht
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
