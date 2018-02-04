@@ -66,7 +66,7 @@
 - Indien ist seit 2014 das dritte Geschlecht rechtlich anerkannt |
 - Kanada ist seit August dieses Jahres der Eintrag „X“ |
 - Ebenso in Kolumbien, Argentinien, Malta, Bangladesch, Nepal, Pakistan, Neuseeland und Dänemark |
-- Deutschland:
+- Deutschland: |
   + nur für diejenigen, die biologisch nicht einem Geschlecht zuzuordnen sind
 
 ---
@@ -77,36 +77,9 @@
 
 ### Quellen
 
-<br>
-
-http://www.spiegel.de/gesundheit/schwangerschaft/das-dritte-geschlecht-was-bedeutet-intersexualitaet-a-1177033.html
-
-<br>
-
-https://www.tagesschau.de/inland/intersexuelle-geschlecht-105.html
-
-<br>
-
-http://www.sueddeutsche.de/leben/bundesverfassungsgericht-zu-intersexualitaet-das-dritte-geschlecht-eine-revolution-1.3740616
-
-<br>
-
-https://www.cicero.de/innenpolitik/drittes-geschlecht-mannlein-weiblein
-
-<br>
-
-http://www.zeit.de/gesellschaft/zeitgeschehen/2017-11/bundesverfassungsgericht-fuer-drittes-geschlecht-im-geburtenregister
-
-<br>
-
-https://www.focus.de/finanzen/experten/drittes-geschlecht-die-folgen-des-urteils-fuer-die-arbeitswelt_id_7862448.html
-
-@fa[medium gp-contact](@gitpitch)
-
----?image=assets/image/gitpitch-audience.jpg&opacity=100
-
-@title[Download this Template!]
-
-### Get your presentation started!
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/black)
-
+- http://www.spiegel.de/gesundheit/schwangerschaft/das-dritte-geschlecht-was-bedeutet-intersexualitaet-a-1177033.html |
+- https://www.tagesschau.de/inland/intersexuelle-geschlecht-105.html|
+- http://www.sueddeutsche.de/leben/bundesverfassungsgericht-zu-intersexualitaet-das-dritte-geschlecht-eine-revolution-1.3740616 |
+- https://www.cicero.de/innenpolitik/drittes-geschlecht-mannlein-weiblein |
+- http://www.zeit.de/gesellschaft/zeitgeschehen/2017-11/bundesverfassungsgericht-fuer-drittes-geschlecht-im-geburtenregister |
+- http://www.zeit.de/gesellschaft/zeitgeschehen/2017-11/bundesverfassungsgericht-fuer-drittes-geschlecht-im-geburtenregister
