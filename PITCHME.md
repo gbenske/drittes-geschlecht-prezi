@@ -26,7 +26,6 @@
 
 
 ---
-
 ## Wie kam es zu der Entscheidung?
 
 - Auslöser: Klage einer intersexuellen Person  |
