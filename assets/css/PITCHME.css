@@ -86,3 +86,7 @@
 .reveal ol, .reveal dl, .reveal ul{
   width: 980px;
 }
+
+.gp-menu-bars{
+  display: none;
+}

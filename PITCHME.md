@@ -2,7 +2,7 @@
 
 ### Das Dritte Geschlecht
 
-#### Eine Präsentation von German Benske
+#### Eine Präsentation von <strong>German Benske</strong>
 
 ---
 
@@ -26,6 +26,7 @@
 
 
 ---
+
 ## Wie kam es zu der Entscheidung?
 
 - Auslöser: Klage einer intersexuellen Person  |
