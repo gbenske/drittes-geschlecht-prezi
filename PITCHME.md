@@ -14,15 +14,15 @@
 
 ### Was genau ist das dritte Geschlecht?
 
-- Wird als Intersexualität betitelt |
-- Geschlechtsidentität hängt von mehreren Faktoren ab |
+- Wird als <strong>Intersexualität</strong> betitelt |
+- Geschlechtsidentität hängt von mehreren <strong>Faktoren</strong> ab |
   + körperliche Merkmale 
   + soziale Einflüsse
   + Hormonen und dem Stoffwechsel
   + psychische Empfinden
 - Keine genaue Zuordnung |
 - Begründung: "Menschen, die nicht mit einem eindeutigen Geschlecht auf die Welt gekommen sind, sollten nicht gezwungen sein, sich einem der zwei Geschlechter zuordnen zu müssen." |
-- Ende 2018 muss der Gesetzgeber nun eine neue Regelung schaffen |
+- <strong>Ende 2018</strong> muss der Gesetzgeber nun eine neue Regelung schaffen |
 
 
 ---
@@ -38,17 +38,17 @@
 ## Zahl der Betroffenen
 
 - Nicht genau definierbar |
-- Schätzungen aus dem Jahr 2012 zufolge rund 80.000 intersexuelle Menschen in Deutschland |
+- Schätzungen aus dem <strong>Jahr 2012</strong> zufolge rund <strong>80.000</strong> intersexuelle Menschen in Deutschland |
 
 ---
 
 ## Unterschiede zu anderen Sexualitäten
 
-- Intersexualität nicht gleich Transsexuel |
-- Transsexuelle Menschen unterscheiden sich das körperliche Geschlecht vom psyschischen Geschlecht |
-  + biologisch eindeutig definiert
+- Intersexualität <strong>nicht</strong> gleich Transsexuel |
+- Transsexuelle Menschen unterscheiden sich das <strong>körperliche</strong> Geschlecht vom <strong>psyschischen</strong> Geschlecht |
+  + biologisch <strong>eindeutig</strong> definiert
 - Intersexuelle-Identitäten |
-  + lassen sich biologisch nicht genau definieren
+  + lassen sich biologisch <strong>nicht</strong> genau definieren
 
 ---
 
@@ -67,7 +67,7 @@
 - Kanada ist seit August dieses Jahres der Eintrag „X“ |
 - Ebenso in Kolumbien, Argentinien, Malta, Bangladesch, Nepal, Pakistan, Neuseeland und Dänemark |
 - Deutschland: |
-  + nur für diejenigen, die biologisch nicht einem Geschlecht zuzuordnen sind
+  + nur für diejenigen, die biologisch <strong>nicht</strong> einem Geschlecht zuzuordnen sind
 
 ---
 

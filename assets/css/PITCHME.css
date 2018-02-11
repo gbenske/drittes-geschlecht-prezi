@@ -90,3 +90,7 @@
 .gp-menu-bars{
   display: none;
 }
+
+.reveal strong{
+  color: #1db992;
+}
