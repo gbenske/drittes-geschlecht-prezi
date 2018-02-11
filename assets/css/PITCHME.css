@@ -82,7 +82,3 @@
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
-
-.reveal .slides section[data-transition=none], .reveal.none .slides section:not([data-transition]){
-  top: 50px !important;
-}
