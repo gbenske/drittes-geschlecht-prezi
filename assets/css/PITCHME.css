@@ -94,3 +94,9 @@
 .reveal strong{
   color: #1db992;
 }
+
+.reveal .slides section .fragment{
+  opacity: 1;
+  visibility: visible;
+  font-size: 100%;
+}
