@@ -82,3 +82,7 @@
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
+
+.reveal ol, .reveal dl, .reveal ul{
+  width: 980px;
+}
