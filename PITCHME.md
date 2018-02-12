@@ -64,7 +64,7 @@
 
 - Australien seit 2003 den Geschlechtseintrag „X“ |
 - Indien ist seit 2014 das dritte Geschlecht rechtlich anerkannt |
-- Kanada ist seit August dieses Jahres der Eintrag „X“ |
+- Kanada ist seit August letzen Jahres der Eintrag „X“ |
 - Ebenso in Kolumbien, Argentinien, Malta, Bangladesch, Nepal, Pakistan, Neuseeland und Dänemark |
 - Deutschland: |
   + nur für diejenigen, die biologisch nicht einem Geschlecht zuzuordnen sind
