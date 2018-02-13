@@ -35,6 +35,15 @@
 
 ---
 
+## Wie reagiert die Politik?
+
+- Bundesfamilienministerin Katarina Barley begrüßte die Entscheidung |
+  + „Es verletzt das allgemeine Persönlichkeitsrecht von Menschen, die weder männlich noch weiblich sind, wenn ihr Geschlechtseintrag offen bleibt“
+- Leiterin der Antidiskriminierungsstelle des Bundes Christine Lüders würdigte die Entscheidung als „historisch“ |
+  + "Das Gericht habe klargestellt, dass der Schutz vor Diskriminierung wegen des Geschlechts nicht nur für Männer und Frauen gelte, sondern auch für Menschen, die sich weder dem weiblichen noch dem männlichen Geschlecht zuordneten"
+
+---
+
 ## Zahl der Betroffenen
 
 - Nicht genau definierbar |
